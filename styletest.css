@@ -249,6 +249,11 @@ button{
   }
 
   .wel{
+    font: 18px;
+  }
+
+  .hand{
+    height: 18px;
   }
 
   .para{
@@ -264,10 +269,11 @@ button{
 
   .wave{
     margin: 0;
+    height: 36px;
   }
 
   .container2{
-    gap: 1em;
-    padding: 10px 40px 14px 40px;
+    gap: 0.8em;
+    padding: 10px 30px 14px 30px;
   }
 }
