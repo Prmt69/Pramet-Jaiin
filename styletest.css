@@ -32,7 +32,7 @@ body{
   justify-content: space-around;
   gap: 56px;
   background-color: black;
-  padding: 10px 68px 14px 68px;
+  padding: 10px 56px 14px 56px;
   border-radius: 50px;
   border: 3px #7BA7D7 solid;
   z-index: 5;
