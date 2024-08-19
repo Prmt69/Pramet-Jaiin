@@ -248,13 +248,6 @@ button{
     margin: 30px 20px;
   }
 
-  .wel{
-    font: 18px;
-  }
-
-  .hand{
-    height: 18px;
-  }
 
   .para{
     margin: 50px 20px 20px 0;
@@ -269,11 +262,18 @@ button{
 
   .wave{
     margin: 0;
-    height: 36px;
   }
 
   .container2{
-    gap: 0.8em;
-    padding: 10px 30px 14px 30px;
+    gap: 1em;
+    padding: 10px 40px 14px 40px;
   }
+}
+
+.bd-placeholder-img {
+  border-radius: 0px;
+}
+
+a{
+  text-decoration: none;
 }
